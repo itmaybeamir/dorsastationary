@@ -11,7 +11,7 @@ body {
     grid-template-columns: 5fr repeat(4, 0.55fr) 0.1fr;
     background-color: floralwhite;
     margin: 5vw 15vw 5vw 15vw;
-    border: solid black 5vw;
+    border: solid black 0.5vw;
     border-radius: 1vw;
 }
 .title {
